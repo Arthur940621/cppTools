@@ -786,7 +786,7 @@ $ git log [option]
 ### 版本回退
 
 ```sh
-$ git reset --hard commitID # commitID 可以使用 git-log 或 git log 指令查看
+$ git reset --hard commitID # commitID 可以使用 git log 指令查看
 ```
 
 ### 添加文件至忽略列表
